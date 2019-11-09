@@ -7,7 +7,7 @@ def initialize
 end
 
 def learn(info)
-  self.knowledge << info 
-end 
+  self.knowledge << info
+end
 
 end
